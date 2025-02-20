@@ -1,5 +1,5 @@
 # Bondi
-# link of the (live Demo) 
+# Link to the (Live Demo)
 https://bondi-git-main-mahmoudfawzy10s-projects.vercel.app/
 
 # 👋 Hey there, I'm **Mahmoud Fawzy**
@@ -11,6 +11,14 @@ https://bondi-git-main-mahmoudfawzy10s-projects.vercel.app/
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hello+World!;Aspiring+Full-Stack+Developer;Coding+My+Way+to+Mastery!" alt="Typing SVG" />
 </div>
+
+---
+
+### 📌 **Project Description:**
+
+This project, **Bondi**, was built using **Bootstrap** to create a responsive and visually appealing website. The Bootstrap grid system, utility classes, and components were used to ensure a clean, structured layout with minimal custom CSS. The framework's responsiveness made it easy to optimize for different screen sizes, improving user experience and accessibility.
+
+A huge thank you to **Osama Elzero** for his incredible teaching and guidance. His tutorials have been a game-changer in my development journey! 🙌
 
 ---
 
@@ -49,12 +57,6 @@ graph TD;
 - 🗂️ Learn database management (MySQL, Oracle, SQLite).
 - 🚀 Build real-world projects to enhance problem-solving skills.
 - 🌟 Complete Bootstrap and move to advanced CSS frameworks like Tailwind.
-
----
-
-### 📌 **Project Description:**
-
-This project was built using **Bootstrap** to ensure a responsive and modern design. It utilizes Bootstrap's grid system, components, and utility classes to create a well-structured and visually appealing layout. The use of Bootstrap has helped streamline development by reducing custom CSS and improving maintainability.
 
 ---
 
